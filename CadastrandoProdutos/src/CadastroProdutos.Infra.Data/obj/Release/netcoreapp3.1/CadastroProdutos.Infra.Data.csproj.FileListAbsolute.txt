@@ -1,0 +1,15 @@
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Infra.Data\obj\Release\netcoreapp3.1\CadastroProdutos.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Infra.Data\obj\Release\netcoreapp3.1\CadastroProdutos.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Infra.Data\obj\Release\netcoreapp3.1\CadastroProdutos.Infra.Data.AssemblyInfo.cs
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Infra.Data\obj\Release\netcoreapp3.1\CadastroProdutos.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Infra.Data\bin\Release\netcoreapp3.1\CadastroProdutos.Infra.Data.deps.json
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Infra.Data\bin\Release\netcoreapp3.1\CadastroProdutos.Infra.Data.runtimeconfig.json
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Infra.Data\bin\Release\netcoreapp3.1\CadastroProdutos.Infra.Data.runtimeconfig.dev.json
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Infra.Data\bin\Release\netcoreapp3.1\CadastroProdutos.Infra.Data.dll
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Infra.Data\bin\Release\netcoreapp3.1\CadastroProdutos.Infra.Data.pdb
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Infra.Data\bin\Release\netcoreapp3.1\CadastroProdutos.Domain.dll
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Infra.Data\bin\Release\netcoreapp3.1\CadastroProdutos.Domain.pdb
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Infra.Data\obj\Release\netcoreapp3.1\CadastroProdutos.Infra.Data.csproj.CopyComplete
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Infra.Data\obj\Release\netcoreapp3.1\CadastroProdutos.Infra.Data.dll
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Infra.Data\obj\Release\netcoreapp3.1\CadastroProdutos.Infra.Data.pdb
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Infra.Data\obj\Release\netcoreapp3.1\CadastroProdutos.Infra.Data.genruntimeconfig.cache

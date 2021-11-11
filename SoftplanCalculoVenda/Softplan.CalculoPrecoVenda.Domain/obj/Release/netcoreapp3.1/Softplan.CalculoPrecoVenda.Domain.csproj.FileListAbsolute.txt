@@ -1,0 +1,9 @@
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.CalculoPrecoVenda.Domain\bin\Release\netcoreapp3.1\Softplan.CalculoPrecoVenda.Domain.deps.json
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.CalculoPrecoVenda.Domain\bin\Release\netcoreapp3.1\Softplan.CalculoPrecoVenda.Domain.dll
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.CalculoPrecoVenda.Domain\bin\Release\netcoreapp3.1\Softplan.CalculoPrecoVenda.Domain.pdb
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.CalculoPrecoVenda.Domain\obj\Release\netcoreapp3.1\Softplan.CalculoPrecoVenda.Domain.csprojAssemblyReference.cache
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.CalculoPrecoVenda.Domain\obj\Release\netcoreapp3.1\Softplan.CalculoPrecoVenda.Domain.AssemblyInfoInputs.cache
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.CalculoPrecoVenda.Domain\obj\Release\netcoreapp3.1\Softplan.CalculoPrecoVenda.Domain.AssemblyInfo.cs
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.CalculoPrecoVenda.Domain\obj\Release\netcoreapp3.1\Softplan.CalculoPrecoVenda.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.CalculoPrecoVenda.Domain\obj\Release\netcoreapp3.1\Softplan.CalculoPrecoVenda.Domain.dll
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.CalculoPrecoVenda.Domain\obj\Release\netcoreapp3.1\Softplan.CalculoPrecoVenda.Domain.pdb

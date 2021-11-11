@@ -1,0 +1,15 @@
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.Data\bin\Debug\netcoreapp3.1\Softplan.Data.deps.json
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.Data\bin\Debug\netcoreapp3.1\Softplan.Data.dll
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.Data\bin\Debug\netcoreapp3.1\Softplan.Data.pdb
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.Data\obj\Debug\netcoreapp3.1\Softplan.Data.csprojAssemblyReference.cache
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.Data\obj\Debug\netcoreapp3.1\Softplan.Data.AssemblyInfoInputs.cache
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.Data\obj\Debug\netcoreapp3.1\Softplan.Data.AssemblyInfo.cs
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.Data\obj\Debug\netcoreapp3.1\Softplan.Data.csproj.CoreCompileInputs.cache
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.Data\obj\Debug\netcoreapp3.1\Softplan.Data.dll
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.Data\obj\Debug\netcoreapp3.1\Softplan.Data.pdb
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.Data\bin\Debug\netcoreapp3.1\Softplan.Data.runtimeconfig.json
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.Data\bin\Debug\netcoreapp3.1\Softplan.Data.runtimeconfig.dev.json
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.Data\bin\Debug\netcoreapp3.1\Softplan.Domain.dll
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.Data\bin\Debug\netcoreapp3.1\Softplan.Domain.pdb
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.Data\obj\Debug\netcoreapp3.1\Softplan.Data.csproj.CopyComplete
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.Data\obj\Debug\netcoreapp3.1\Softplan.Data.genruntimeconfig.cache

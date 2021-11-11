@@ -1,0 +1,9 @@
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.Domain\obj\Debug\netcoreapp3.1\Softplan.Domain.csprojAssemblyReference.cache
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.Domain\obj\Debug\netcoreapp3.1\Softplan.Domain.AssemblyInfoInputs.cache
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.Domain\obj\Debug\netcoreapp3.1\Softplan.Domain.AssemblyInfo.cs
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.Domain\obj\Debug\netcoreapp3.1\Softplan.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.Domain\bin\Debug\netcoreapp3.1\Softplan.Domain.deps.json
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.Domain\bin\Debug\netcoreapp3.1\Softplan.Domain.dll
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.Domain\bin\Debug\netcoreapp3.1\Softplan.Domain.pdb
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.Domain\obj\Debug\netcoreapp3.1\Softplan.Domain.dll
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.Domain\obj\Debug\netcoreapp3.1\Softplan.Domain.pdb

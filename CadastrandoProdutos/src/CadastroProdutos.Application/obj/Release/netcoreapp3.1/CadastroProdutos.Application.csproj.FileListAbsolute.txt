@@ -1,0 +1,14 @@
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Application\obj\Release\netcoreapp3.1\CadastroProdutos.Application.AssemblyInfoInputs.cache
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Application\obj\Release\netcoreapp3.1\CadastroProdutos.Application.AssemblyInfo.cs
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Application\obj\Release\netcoreapp3.1\CadastroProdutos.Application.csproj.CoreCompileInputs.cache
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Application\bin\Release\netcoreapp3.1\CadastroProdutos.Application.deps.json
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Application\bin\Release\netcoreapp3.1\CadastroProdutos.Application.dll
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Application\bin\Release\netcoreapp3.1\CadastroProdutos.Application.pdb
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Application\bin\Release\netcoreapp3.1\CadastroProdutos.Domain.dll
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Application\bin\Release\netcoreapp3.1\CadastroProdutos.Infra.Data.dll
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Application\bin\Release\netcoreapp3.1\CadastroProdutos.Domain.pdb
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Application\bin\Release\netcoreapp3.1\CadastroProdutos.Infra.Data.pdb
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Application\obj\Release\netcoreapp3.1\CadastroProdutos.Application.csprojAssemblyReference.cache
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Application\obj\Release\netcoreapp3.1\CadastroProdutos.Application.csproj.CopyComplete
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Application\obj\Release\netcoreapp3.1\CadastroProdutos.Application.dll
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Application\obj\Release\netcoreapp3.1\CadastroProdutos.Application.pdb

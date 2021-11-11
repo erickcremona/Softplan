@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UxP/S1dHfMii+qxWTxHnEP1kjpfuX8tzNAphxmnf8z0aGrJ2HwvPvhBJM5uW3fXx1pKZF5GgnV8lgv3Gwc5TNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\erick\\OneDrive\\Documentos\\Softplan\\SoftplanCalculoVenda\\Softplan.CalculoPrecoVenda.Domain\\Softplan.CalculoPrecoVenda.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erick\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}

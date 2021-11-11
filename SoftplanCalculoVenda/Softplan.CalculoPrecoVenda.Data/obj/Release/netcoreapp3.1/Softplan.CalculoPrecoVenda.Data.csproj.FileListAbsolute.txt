@@ -1,0 +1,15 @@
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.CalculoPrecoVenda.Data\bin\Release\netcoreapp3.1\Softplan.CalculoPrecoVenda.Data.deps.json
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.CalculoPrecoVenda.Data\bin\Release\netcoreapp3.1\Softplan.CalculoPrecoVenda.Data.runtimeconfig.json
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.CalculoPrecoVenda.Data\bin\Release\netcoreapp3.1\Softplan.CalculoPrecoVenda.Data.runtimeconfig.dev.json
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.CalculoPrecoVenda.Data\bin\Release\netcoreapp3.1\Softplan.CalculoPrecoVenda.Data.dll
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.CalculoPrecoVenda.Data\bin\Release\netcoreapp3.1\Softplan.CalculoPrecoVenda.Data.pdb
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.CalculoPrecoVenda.Data\bin\Release\netcoreapp3.1\Softplan.CalculoPrecoVenda.Domain.dll
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.CalculoPrecoVenda.Data\bin\Release\netcoreapp3.1\Softplan.CalculoPrecoVenda.Domain.pdb
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.CalculoPrecoVenda.Data\obj\Release\netcoreapp3.1\Softplan.CalculoPrecoVenda.Data.csprojAssemblyReference.cache
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.CalculoPrecoVenda.Data\obj\Release\netcoreapp3.1\Softplan.CalculoPrecoVenda.Data.AssemblyInfoInputs.cache
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.CalculoPrecoVenda.Data\obj\Release\netcoreapp3.1\Softplan.CalculoPrecoVenda.Data.AssemblyInfo.cs
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.CalculoPrecoVenda.Data\obj\Release\netcoreapp3.1\Softplan.CalculoPrecoVenda.Data.csproj.CoreCompileInputs.cache
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.CalculoPrecoVenda.Data\obj\Release\netcoreapp3.1\Softplan.CalculoPrecoVenda.Data.csproj.CopyComplete
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.CalculoPrecoVenda.Data\obj\Release\netcoreapp3.1\Softplan.CalculoPrecoVenda.Data.dll
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.CalculoPrecoVenda.Data\obj\Release\netcoreapp3.1\Softplan.CalculoPrecoVenda.Data.pdb
+C:\Users\Erick\OneDrive\Documentos\Softplan\Softplan.CalculoPrecoVenda.Data\obj\Release\netcoreapp3.1\Softplan.CalculoPrecoVenda.Data.genruntimeconfig.cache

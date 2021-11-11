@@ -1,0 +1,10 @@
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Domain\bin\Debug\netcoreapp3.1\CadastroProdutos.Domain.deps.json
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Domain\bin\Debug\netcoreapp3.1\CadastroProdutos.Domain.dll
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Domain\bin\Debug\netcoreapp3.1\CadastroProdutos.Domain.pdb
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Domain\obj\Debug\netcoreapp3.1\CadastroProdutos.Domain.AssemblyInfoInputs.cache
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Domain\obj\Debug\netcoreapp3.1\CadastroProdutos.Domain.AssemblyInfo.cs
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Domain\obj\Debug\netcoreapp3.1\CadastroProdutos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Domain\obj\Debug\netcoreapp3.1\CadastroProdutos.Domain.dll
+C:\Users\Erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Domain\obj\Debug\netcoreapp3.1\CadastroProdutos.Domain.pdb
+C:\Users\erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Domain\obj\Debug\netcoreapp3.1\CadastroProdutos.Domain.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Softplan\CadastrandoProdutos\src\CadastroProdutos.Domain\obj\Debug\netcoreapp3.1\CadastroProdutos.Domain.GeneratedMSBuildEditorConfig.editorconfig
